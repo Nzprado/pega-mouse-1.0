@@ -2,7 +2,7 @@ let cor;
 let posicaoHorizontal=200;
   let posicaoVertical=200;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1100, 1100);
   background("rgb(0,0,0)");
   cor = color(random(0,255),random(0,255),random(0,255));
  }
